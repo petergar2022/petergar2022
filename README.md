@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Pedro Garcia 👋
 
 <!--
 **petergar2022/petergar2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
